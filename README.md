@@ -1,4 +1,3 @@
-## Welcome to Goxrd.com Pages
 
 ![logo](images/kuaiyuan_epoch.jpg)
 
