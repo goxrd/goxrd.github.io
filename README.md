@@ -1,5 +1,7 @@
 ## Welcome to Goxrd.com Pages
 
+![logo](images/kuaiyuan_epoch.jpg)
+
 Our Validators  
 [Our nodes](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
 #RadixMainnetIsLive
