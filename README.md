@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Welcome to Goxrd.com Pages
 
-You can use the [editor on GitHub](https://github.com/goxrd/goxrd.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Our Validators
+Our nodes are running on Radix Olympia Mainnet!
+#RadixMainnetIsLive
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Staking in the Radix network is essential to protect network security. The Radix network is operated by validator node-runners like StakeSafe who participate in the consensus on transactions and code run on the network.
 
-### Markdown
+As an XRD staker you delegate your tokens to validator node-runners and instantly receive rewards for your participation of making the network safe. Its therefore essential to choose your validators wisely since because in case a validator does not perform up to standard, your stake (rewards) might be penalized for incorrect consensus or downtime
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Stake Flow
 
-```markdown
-Syntax highlighted code block
+#### Radix Wallet
+To start with staking start the Radix Wallet and go to Stake & Unstake in the menu
 
-# Header 1
-## Header 2
-### Header 3
+![start staking](images/radix_wallet.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Stake & Unstake
+Enter the address of one of our validators in the validator field. Type the desired XRD amount in the amount field.
+Our Node Address: `rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh`
 
-**Bold** and _Italic_ and `Code` text
+![Stake/unstake](images/stake_unstake.png)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Confirm
+Confirm to stake your tokens with us. You need to confirm this transaction with your pincode.
 
-### Jekyll Themes
+![Confirm](images/confirm.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goxrd/goxrd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Stake/Unstake? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
