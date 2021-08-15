@@ -1,7 +1,7 @@
 ## Welcome to Goxrd.com Pages
 
 Our Validators
-Our nodes are running on Radix Olympia Mainnet!
+[Our nodes](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
 #RadixMainnetIsLive
 
 Staking in the Radix network is essential to protect network security. The Radix network is operated by validator node-runners like StakeSafe who participate in the consensus on transactions and code run on the network.
