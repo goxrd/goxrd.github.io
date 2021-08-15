@@ -1,3 +1,4 @@
+## Goxrd.com Radix Validator Node
 
 ![logo](images/kuaiyuan_epoch.jpg)
 
