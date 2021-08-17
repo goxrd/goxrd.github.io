@@ -1,10 +1,17 @@
-## Goxrd.com Radix Validator Node
+## Kuaiyuan Epoch Validator Node
 
 ![logo](images/kuaiyuan_epoch.jpg)
 
-Our Validators  
-[Our nodes](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
+**Abount Kuaiyuan Epoch**  
+[Our Validator: Kuaiyuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
 #RadixMainnetIsLive
+
+KaiYuan Epoch is a professional validator during Radix Main net Beta Test, Also We translated  Serials Radix White Paper Including Radix DeFi, Economic Model and Cerberus into Chinese.
+KaiYuan Epoch believe Radix will be the next BIG AND RIGHT thing after Bitcoin and Etherum, We Look forward to witnessing the great moment of Radix Roadmap Xi’an releasing.
+
+Xi’an is capital of Tang Dynasty in China, Meanwhile KaiYuan Epoch is most brilliant epoch in Tang Dynasty through long China history. So this is reason why we named.
+
+Let’s work together!
 
 Staking in the Radix network is essential to protect network security. The Radix network is operated by validator node-runners like StakeSafe who participate in the consensus on transactions and code run on the network.
 
@@ -26,7 +33,7 @@ Our Node Address: `rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtx
 
 
 #### Confirm
-Confirm to stake your tokens with us. You need to confirm this transaction with your pincode.
+Confirm to stake your tokens with us. You need to confirm this transaction with your Pin code.
 
 ![Confirm](images/confirm.png)
 
