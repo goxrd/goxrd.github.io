@@ -1,9 +1,9 @@
-## Kuaiyuan Epoch Validator Node
+## KaiYuan Epoch Validator Node
 
 ![logo](images/kuaiyuan_epoch.jpg)
 
-**Abount Kuaiyuan Epoch**  
-[Our Validator: Kuaiyuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
+**Abount KaiYuan Epoch**  
+[Our Validator: KaiYuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
 #RadixMainnetIsLive
 
 KaiYuan Epoch is a professional validator during Radix Main net Beta Test, Also We translated  Serials Radix White Paper Including Radix DeFi, Economic Model and Cerberus into Chinese.
