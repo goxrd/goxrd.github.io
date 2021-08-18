@@ -2,7 +2,7 @@
 
 ![logo](images/kuaiyuan_epoch.jpg)
 
-**Abount KaiYuan Epoch**  
+**About KaiYuan Epoch**  
 [Our Validator: KaiYuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) are running on Radix Olympia Mainnet!
 #RadixMainnetIsLive
 
