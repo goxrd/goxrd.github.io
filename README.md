@@ -2,7 +2,7 @@
 
 ![logo](images/kuaiyuan_epoch.jpg)
 
-**ABOUT Kaiyuan Validator:**  
+## About Kaiyuan Validator
 [KaiYuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) is a leading Top 50 Validator  running on Radix Mainnet from August, 2022, Also we are one of Validator of early Radix Mainet Beta test.
 
 Kaiyuan Epoch provide with stable and Secure staking service with low fee for customers from UK, USA ,China, Spain etc. Kaiyuan staking Service is featured by over 5 Radix OG.
