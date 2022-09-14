@@ -7,8 +7,6 @@
 
 Kaiyuan Epoch provide  stable and Secure staking service with low fee for our customers from UK, USA ,China, Spain etc. Kaiyuan staking Service is featured by over 5 Radix OG also.
 
-Kaiyuan Epoch provide with stable and Secure staking service with low fee for customers from UK, USA ,China, Spain etc. Kaiyuan staking Service is featured by over 5 Radix OG.
-
 Being a senior Ambassador of Radix, Kaiyuan team work with his customers to translate Serials Radix White Paper Including Radix DeFi, Economic Model and Cerberus into Chinese version from 2021 to 2022.
 
 KaiYuan Epoch believe Radix will be the King of Layer 1 after Bitcoin and Etherum, We Look forward to witnessing the great moment of Radix Roadmap Xi’ an releasing.
