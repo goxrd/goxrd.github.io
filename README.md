@@ -3,18 +3,21 @@
 ![logo](images/kuaiyuan_epoch.jpg)
 
 ## About Kaiyuan Validator
-[KaiYuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) is a leading Top 50 Validator  running on Radix Mainnet from August, 2022, Also we are one of Validator of early Radix Mainet Beta test.
+[KaiYuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) is a leading Top 50 Validator running on Radix Mainnet from August, 2021, Also we are one of Validator of early Radix Mainet Beta test.
+
+Kaiyuan Epoch provide  stable and Secure staking service with low fee for our customers from UK, USA ,China, Spain etc. Kaiyuan staking Service is featured by over 5 Radix OG also.
 
 Kaiyuan Epoch provide with stable and Secure staking service with low fee for customers from UK, USA ,China, Spain etc. Kaiyuan staking Service is featured by over 5 Radix OG.
 
-Being a senior Ambassador of Radix,  Kaiyuan team work with his customers translate Serials Radix White Paper Including Radix DeFi, Economic Model and Cerberus into Chinese from 2021 to 2022.
+Being a senior Ambassador of Radix, Kaiyuan team work with his customers to translate Serials Radix White Paper Including Radix DeFi, Economic Model and Cerberus into Chinese version from 2021 to 2022.
 
 KaiYuan Epoch believe Radix will be the King of Layer 1 after Bitcoin and Etherum, We Look forward to witnessing the great moment of Radix Roadmap Xi’ an releasing.
 
-Xi’an is capital of Tang Dynasty in China, Meanwhile KaiYuan Epoch is most brilliant epoch in Tang Dynasty through long China history. So this is reason why we named.
+## Why We call KaiYuan Epoch?
 
-Let’s work together!
-    
+Xi’ an is capital of Tang Dynasty in China, Meanwhile KaiYuan Epoch is most brilliant period in Tang Dynasty through long China history. So this is reason why we named.
+
+Stake with KaiYuan ,Go to Xi' an together!
     
     
 ## What is Staking
@@ -49,3 +52,5 @@ Confirm to stake your tokens with us. You need to confirm this transaction with 
 ### Support or Contact
 
 Having trouble with Stake/Unstake? Check out our [documentation](https://www.radixdlt.com/post/radix-staking-and-incentive-rewards-guide) or [contact support](https://twitter.com/Kaiyuanepoch) and we’ll help you sort it out.
+
+
