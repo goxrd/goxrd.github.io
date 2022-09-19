@@ -1,6 +1,6 @@
 ## KaiYuan Epoch Validator Node
 
-![logo](images/kuaiyuan_epoch.jpg)
+<img src="images/kuaiyuan_epoch.jpg" width="300" />
 
 ## Radix Cerberus White Paper
 [Radix Cerberus Download(Chinese Version)](https://raw.githubusercontent.com/goxrd/goxrd.github.io/main/doc/Radix%20Cerberus%E5%85%B1%E8%AF%86%E5%8D%8F%E8%AE%AE%E7%99%BD%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E7%89%88%2020220905.pdf)
