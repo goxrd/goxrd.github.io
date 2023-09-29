@@ -27,19 +27,30 @@ As an XRD staker you delegate your tokens to validator node-runners and instantl
 ### Stake Flow
 
 #### Radix Wallet
-To start with staking start the Radix Wallet and go to Stake & Unstake in the menu.
+To start with staking start the Radix Wallet, the setup guide follow: [Radix Wallet(Babylon)](https://wallet.radixdlt.com/). You should install Mobile App & Browser extension(Chrome/Brave).
 
-![start staking](images/radix_wallet.png)
+Use your browser with the extension installed and configured to open: [https://dashboard.radixdlt.com](https://dashboard.radixdlt.com/) and find ` --Kaiyuan epoch-- `.
+
+![find Kaiyuan epoch](images/validator_kaiyuan_epoch.png)
+
+You can see some details about Kaiyuan Epoch. For example, APY:8.49%, Fee(%): 1%, etc.
+![Kaiyuan epoch detail](images/kaiyuan-epoch-detail.png)
+
+
+Click `Add Stake` or `Request Unstake` for the next step.
+
+
 
 
 #### Stake & Unstake
-Enter the address of one of our validators in the validator field. Type the desired XRD amount in the amount field. Our Validator Address: `rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh`
+Type the desired XRD amount in the amount field. Our Validator Address: `validator_rdx1sweyknyzw9lzh6hdjeq2avh9gg5g6l7dd8he77khnv76ac8ut84hq4`
 
-![Stake/unstake](images/stake_unstake.png)
+![Stake](images/stake.png)
+![Untake](images/stake.png)
 
 
 #### Confirm
-Confirm to stake your tokens with us. You need to confirm this transaction with your Pin code.
+Confirm to stake your tokens with us. You need to confirm this transaction on your mobile app(Radix Wallet)
 
 ![Confirm](images/confirm.png)
 
