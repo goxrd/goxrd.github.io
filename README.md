@@ -6,7 +6,7 @@
 [Radix Cerberus WP Download(Chinese Version)](https://raw.githubusercontent.com/goxrd/goxrd.github.io/main/doc/Radix%20Cerberus%E5%85%B1%E8%AF%86%E5%8D%8F%E8%AE%AE%E7%99%BD%E7%9A%AE%E4%B9%A6%E4%B8%AD%E6%96%87%E7%89%88%2020220905.pdf)
 
 ## About Kaiyuan Validator
-[KaiYuan Epoch](https://explorer.radixdlt.com/#/validators/rv1qgg8n2f8ddrfc5927rjh0rykkw2m5apqkaw6pcsxtmzk4086al77vs3rtxh) is a leading Top 50 Validator running on Radix Mainnet from August, 2021, Also we are one of Validator of early Radix Mainet Beta test.
+[KaiYuan Epoch](https://dashboard.radixdlt.com/network-staking/validator_rdx1sweyknyzw9lzh6hdjeq2avh9gg5g6l7dd8he77khnv76ac8ut84hq4) is a leading Top 50 Validator running on Radix Mainnet from August, 2021, Also we are one of Validator of early Radix Mainet Beta test.
 
 Kaiyuan Epoch provide  stable and Secure staking service with low fee for our customers from UK, USA ,China, Spain etc. Kaiyuan staking Service is featured by over 5 Radix OG also.
 
