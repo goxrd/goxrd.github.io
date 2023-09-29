@@ -32,7 +32,7 @@ As an XRD staker you delegate your tokens to validator node-runners and instantl
 #### Radix Wallet
 To start with staking start the Radix Wallet, the setup guide follow: [Radix Wallet(Babylon)](https://wallet.radixdlt.com/). You should install Mobile App & Browser extension(Chrome/Brave).
 
-Use your browser with the extension installed and configured to open: [https://dashboard.radixdlt.com](https://dashboard.radixdlt.com/) and find ` --Kaiyuan epoch-- `.
+Use your browser with the extension installed and configured to open: [https://dashboard.radixdlt.com](https://dashboard.radixdlt.com/) and find `--Kaiyuan epoch--`.
 
 ![find Kaiyuan epoch](images/validator_kaiyuan_epoch.png)
 
