@@ -49,7 +49,7 @@ Click `Add Stake` or `Request Unstake` for the next step.
 Type the desired XRD amount in the amount field. Our Validator Address: `validator_rdx1sweyknyzw9lzh6hdjeq2avh9gg5g6l7dd8he77khnv76ac8ut84hq4`
 
 ![Stake](images/stake.png)
-![Untake](images/stake.png)
+![Untake](images/unstake.png)
 
 
 #### Confirm
