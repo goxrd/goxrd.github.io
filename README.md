@@ -1,3 +1,16 @@
+announce
+========
+
+## Shutting down announcement
+
+Thank you to all the supporters of the Kaiyuan Epoch validator for accompanying us on this journey. We regret to announce that the **Kaiyuan Epoch validator will soon be shutting down.**
+
+#### What does the validator shutdown mean for you?
+
+1.  It **will not affect** the quantity, ownership, or control of the XRD staked to Kaiyuan Epoch. However, because the validator will cease operation, you will no longer receive any staking rewards once it stops (the current annualized return in XRD is approximately 6.9%).
+2.  If the validator stops operating, will I be unable to unstake or claim my XRD? **Answer:** No, the validator operational status does not affect the staked users' ability to unstake and claim their XRD.
+3.  If you are currently staking with the Kaiyuan Epoch validator, **please unstake and claim your XRD as soon as possible.**
+
 ## KaiYuan Epoch Validator Node
 
 <img src="images/kuaiyuan_epoch.jpg" width="300" /><img src="https://assets-global.website-files.com/6053f7fca5bf627283b582c2/6266da2a1429fbe8f7bafefc_radix_logo_black.png" width="300" />
